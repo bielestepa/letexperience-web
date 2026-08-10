@@ -1,1 +1,2 @@
 Production redeploy trigger for hero image fix.
+Vercel Git integration connected 2026-08-10.
